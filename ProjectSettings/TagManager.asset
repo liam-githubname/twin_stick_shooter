@@ -6,6 +6,14 @@ TagManager:
   tags:
   - Projectile
   - asteroid
+  - enemy
+  - ship
+  - bullet
+  - bulletenemy
+  - bomber
+  - gold_asteroid
+  - thrown_asteroid
+  - grabbed_asteroid
   layers:
   - Default
   - TransparentFX
@@ -13,8 +21,8 @@ TagManager:
   - Asteroids
   - Water
   - UI
-  - 
-  - 
+  - Bullet
+  - Enemy
   - 
   - 
   - 
