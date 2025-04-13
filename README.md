@@ -1,8 +1,8 @@
-## WARN
-Working on updating the readme just to show what the project actually looked like. 
-I may at some point try and bring this as a deliverable package but I doubt I will have the time to do that 
-(nor was it a good enough game to probably be worth doing that)
 # Mining Mania
+## WARN
+- Working on updating the readme just to show what the project actually looked like. 
+- I may at some point try and bring this as a deliverable package but I doubt I will have the time to do that.
+- (nor was it a good enough game to probably be worth doing that).
 
 ## Summary
 This is Mining Mania developed by Liam Harvell, Henrique Lacerda Delgado De Sa, Lucas Favarao, Xing Xu. It is a physics based movement, twin stick shooter.
