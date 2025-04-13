@@ -1,4 +1,4 @@
-## WARNING NOT IN PLAYABLE STATE
+## WARN
 Working on updating the readme just to show what the project actually looked like. 
 I may at some point try and bring this as a deliverable package but I doubt I will have the time to do that 
 (nor was it a good enough game to probably be worth doing that)
